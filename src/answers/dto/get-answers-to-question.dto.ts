@@ -1,3 +1,3 @@
 export class GetAnswersToQuestionDto{
-    questionId : string;
+    questionId : number;
 }
